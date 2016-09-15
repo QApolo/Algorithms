@@ -1,2 +1,2 @@
 # Algorithms
-Implementation of some essential algorithms thata every programmer, computer science engineer must know
+Implementation of some essential algorithms that every programmer,computer science engineer or maths lover must know
